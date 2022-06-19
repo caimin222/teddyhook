@@ -1,0 +1,6 @@
+open extreme injector as administrator 
+add the dll
+go to settings
+in the top left change injection method from standard injection to manual map 
+process name : csgo.exe
+open your game and inject
